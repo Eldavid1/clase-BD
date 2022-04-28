@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T04:25:26.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZqPq8GVSECoMu7_Pbfhd" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-28T04:32:31.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7J0ySoI85Fz_uux2lMgK" version="17.4.6" type="github" pages="5">
   <diagram name="Productos" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1094" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -849,18 +849,6 @@
         </mxCell>
         <mxCell id="vJ68LaPoLU6RuS9W06RP-14" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="tY87VS2H25Bw9Lu9DqUW-1">
           <mxGeometry x="210" y="278" width="90" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="vJ68LaPoLU6RuS9W06RP-15" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="tY87VS2H25Bw9Lu9DqUW-1">
-          <mxGeometry x="340" y="278" width="90" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="vJ68LaPoLU6RuS9W06RP-16" value="Fax" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="tY87VS2H25Bw9Lu9DqUW-1">
-          <mxGeometry x="340" y="258" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vJ68LaPoLU6RuS9W06RP-17" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="tY87VS2H25Bw9Lu9DqUW-1">
-          <mxGeometry x="465" y="278" width="90" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="vJ68LaPoLU6RuS9W06RP-18" value="Fax" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="tY87VS2H25Bw9Lu9DqUW-1">
-          <mxGeometry x="465" y="258" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
